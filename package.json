@@ -1,0 +1,22 @@
+{
+  "name": "styled-deakin",
+  "version": "1.0.0",
+  "description": "Styled component library by Deakin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josephdeakin/styled-deakin.git"
+  },
+  "keywords": [
+    "styled-deakin"
+  ],
+  "author": "jdeakin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josephdeakin/styled-deakin/issues"
+  },
+  "homepage": "https://github.com/josephdeakin/styled-deakin#readme"
+}
